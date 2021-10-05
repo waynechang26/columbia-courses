@@ -1,0 +1,32 @@
+.whiteborder {
+  border-style: solid;
+  border-width: thin;
+  border-color: #c4c2c2;
+  background-color: #c4c2c2;
+}
+  
+.btn {
+  background-color: #c4c2c2;
+} 
+  
+.btn:hover {
+  text-shadow:
+    1px 1px black,
+    0px 0px black,
+    0px 0px black,
+    0px 0px black;
+}
+
+ul {
+  list-style-type: square;
+}
+
+.link {
+  text-decoration-line: none;
+  color: #317791;
+}
+
+.link:hover {
+  text-decoration-line: none;
+  color: #0c9bd1;
+}

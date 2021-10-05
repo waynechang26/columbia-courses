@@ -1,0 +1,156 @@
+/*border-radius: 50%; makes perfect circle */
+
+div {
+    border-style: solid;
+    border-width: thin;
+    width: auto;
+    font: 15px arial, sans-serif;
+}
+#container {
+    position: relative;
+    margin: 0 auto;
+}
+
+#banner {
+    background-color: black;
+    padding-top: 3px;
+}
+#menu {
+    background-color: lightgray;
+    height: 50px;
+}
+
+.btn {
+    background-color: lightgray;;
+    position: relative;
+    width: 200px;
+    height: 10px;
+    float: right;
+    text-align: center;
+    padding: 20px 0px;
+    border: none;
+}
+
+.btn:hover {
+    border-style: solid;
+    border-width: thin;
+    text-shadow:
+    1px 1px black,
+    0px 0px black,
+    0px 0px black,
+    0px 0px black;
+}
+
+#main {
+    background-color: white;
+    padding: 15px 100px;
+}
+
+#viddiv {
+    text-align: center;
+    align-content: center;
+}
+
+iframe {
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+
+
+h1 {
+    font: 33px bold;
+}
+
+h2 {
+    font: 25px bold;
+}
+.underline {
+    margin-bottom: -20px;
+    border-bottom: 1px solid currentColor;
+    display: inline-block;
+    line-height: 1;
+}
+
+p {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+ul {
+    margin-top: 25px;
+    list-style-type: square;
+}
+
+li {
+    margin: 8px;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+a:hover {
+    color: rgb(163, 35, 35);
+}
+
+table {
+    font-size: 12px;
+    border: 1px solid black; 
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px auto;
+} 
+td {
+    padding: 10px;
+    margin: 3px;
+    border: 1px solid black;
+}
+th {
+    padding: 10px;
+    background-color: rgb(11, 37, 63); 
+    color: #FFF;
+    font-weight: bold;
+}
+
+
+/* table {
+    border: 2px solid #000000;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 50px auto;
+  }
+  table td, table th {
+    border: 1px solid #000000;
+    padding: 3px 4px;
+  }
+  table tbody td {
+    font-size: 13px;
+  }
+  table td:nth-child(even) {
+    background: #EBEBEB;
+  }
+  table thead {
+    background: #636363;
+    border-bottom: 4px solid #333333;
+  }
+  table thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+    border-left: 2px solid #333333;
+  }
+  table thead th:first-child {
+    border-left: none;
+  }
+  
+  table tfoot td {
+    font-size: 14px;
+  } */
+
+
+
+
+#footer {
+    background-color:white;
+    padding: 15px 100px;
+}
