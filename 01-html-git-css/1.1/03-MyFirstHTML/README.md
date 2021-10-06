@@ -4,6 +4,7 @@
 
     * DOCTYPE declaration
     * Head tag with a title tag
+    
     * H1 tag with a title of your choice
     * Embed an image
     * Create the following three links on your page:
