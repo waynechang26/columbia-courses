@@ -1,6 +1,8 @@
 https://www.youtube.com/watch?v=D2PSsnqgBiw&list=PLnzw2SqyLwROYSiC7sEWW2b9kLS7BXg7X&index=1&t=840s
 # Bash / Terminal Commands
 
+Cristal stinks
+
 These are the basic commands for navigating directories in a Terminal or Git Bash window
 
 ### Moving in directories
